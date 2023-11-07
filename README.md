@@ -1,0 +1,2 @@
+# dotFiles
+Nvim and Lazy :)
