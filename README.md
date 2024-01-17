@@ -15,7 +15,10 @@ This is repository contains a collections of repos, which helped me to build my 
 ### Nvim before Plugins
 ![Nvim](srcs/nvim0.png)
 ### After Plugins
-![Nvim](srcs/nvim1.png)
+![Nvim](srcs/dark.png)
+## Or
+![Nvim](srcs/light1)
+
 
 
 ## 🔗 Nvim:
