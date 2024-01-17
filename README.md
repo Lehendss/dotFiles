@@ -1,9 +1,9 @@
 ![nvim](srcs/Neovim-logo.svg.png)
 
 # NVIM AND TERMINAL CONFIGURATION
-This is repository contains a collections of repos, which helped me to build my own configuration:
+This is repository contains a collection of repos, which helped me to built a personal configuration:
 
-## Requirements:
+## ⚙️  Requirements 
 
 - [nvim](https://neovim.io/) Installed
 - A plugin Manager: I use [Lazy](https://github.com/folke/lazy.nvim)
@@ -18,13 +18,13 @@ This is repository contains a collections of repos, which helped me to build my 
 Configs inspired in this [video](https://www.youtube.com/watch?v=6mxWayq-s9I) 
 
 ## ScreenShoots:
-### Terminal Before [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+### 😔💤 Terminal Before [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 ![Terminal](srcs/terminal0.png)
-### Terminal with [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+### 😼 Terminal with [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 ![Terminal](srcs/terminal1.png)
-### Nvim before Plugins
+### 😔💤 Nvim before Plugins
 ![Nvim](srcs/nvim0.png)
-### After Plugins
+### 😼 After Plugins
 ![Nvim](srcs/dark.png)
 ## Or
 ![Nvim](srcs/light1.png)
