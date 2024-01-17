@@ -1,6 +1,6 @@
 # NVIM AND TERMINAL CONFIGURATION
 
-![nvim](srcs/nvim.png)
+![nvim](srcs/Neovim-logo.svg.png)
 
 This is repository contains a collections of repos, which helped me to build my own configuration:
 
