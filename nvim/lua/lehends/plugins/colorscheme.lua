@@ -9,6 +9,7 @@ return {
 		"catppuccin/nvim", 
 		name = "catppuccin",
 		opts = {
+      flavour = "frappe",
 			term_colors = true,
 			transparent_background = false,
 			styles = {
@@ -26,9 +27,9 @@ return {
 			},
 			color_overrides = {
 				mocha = {
-					base = "#251d36",
-					mantle = "#191425",
-					crust = "#2596be",
+					base = "#000000",--This is the background
+					mantle = "#0E0E0E",
+					crust = "#1D1D1D",--This is the nvim-treeColor
 				},
 			},
 
@@ -37,6 +38,7 @@ return {
 					enabled = true,
 					style = "nvchad",
 				},
+
 				neotree = {
 					enbled = true
 				},
