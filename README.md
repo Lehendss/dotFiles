@@ -26,7 +26,7 @@ Configs inspired from this [video](https://www.youtube.com/watch?v=6mxWayq-s9I)
 ### 😔💤 Nvim before Plugins
 ![Nvim](srcs/nvim0.png)
 ### 😼 After Plugins
-![Nvim](srcs/dark.png)
+![Nvim](srcs/extras/nvimgif.gif)
 ## Or
 ![Nvim](srcs/light1.png)
 
