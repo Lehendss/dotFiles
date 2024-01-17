@@ -6,6 +6,7 @@ This is repository contains a collections of repos, which helped me to build my 
 
 - [nvim](https://neovim.io/) Installed
 - A plugin Manager: I use [Lazy](https://github.com/folke/lazy.nvim)
+- A [NerdFont](https://www.nerdfonts.com/) Installed
 
 ## ScreenShoots:
 ### Terminal Before [powerlevel10k](https://github.com/romkatv/powerlevel10k)
