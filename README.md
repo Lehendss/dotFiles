@@ -5,9 +5,6 @@ This is repository contains a collection of repos, which helped me to built a pe
 
 ## Demostration:
 
-### 😔💤 Nvim before Plugins
-![Nvim](srcs/nvim0.png)
-
 ### 😼 After Plugins
 ![Nvim](srcs/extras/nvimgif.gif)
 
