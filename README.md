@@ -7,6 +7,7 @@ This is repository contains a collection of repos, which helped me to built a pe
 
 - [nvim](https://neovim.io/) Installed
 - A plugin Manager: I use [Lazy](https://github.com/folke/lazy.nvim)
+- [zsh](https://www.zsh.org/) if its not installed
 
 ## Optional:
 
