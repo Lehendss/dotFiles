@@ -7,7 +7,14 @@ This is repository contains a collections of repos, which helped me to build my 
 
 ## 🔗 Nvim:
 
-[nvim-lsp](https://github.com/neovim/nvim-lspconfig): Language configurations, to Use C, python, Java, etc. language completion
+| Plugin             | Description                                                               |
+| ----------------- | ------------------------------------------------------------------ |
+| [nvim-lsp](https://github.com/neovim/nvim-lspconfig)|Language configurations, to Use C, python, Java, etc. language completion|
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
+
 
 [nvim-autopairs](https://github.com/windwp/nvim-autopairs): Special keys completion: Example '{' = '{}'
 
