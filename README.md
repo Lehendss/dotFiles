@@ -2,7 +2,7 @@
 
 This is repository contains a collections of repos, which helped me to build my own configuration:
 
-##Requirements:
+## Requirements:
 
 - nvim
 - A plugin Manager: I use [Lazy](https://github.com/folke/lazy.nvim)
