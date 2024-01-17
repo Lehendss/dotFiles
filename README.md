@@ -1,7 +1,7 @@
 ![nvim](srcs/Neovim-logo.svg.png)
 
 # NVIM AND TERMINAL CONFIGURATION
-This is repository contains a collection of repos, which helped me to built a personal configuration:
+This is repository contains a collection of repos, which helped me to built a personal configuration to change from a boring and depressing terminal/nvim 💤 to a lovely one ❤️ .
 
 ## ⚙️  Requirements 
 
