@@ -14,9 +14,9 @@ This is repository contains a collection of repos, which helped me to built a pe
 - A linux theme: I use [WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 - A [NerdFont](https://www.nerdfonts.com/) Installed
 
-## Useful Links:
+## 🔗 Useful Links:
 
-Configs inspired in this [video](https://www.youtube.com/watch?v=6mxWayq-s9I) 
+Configs inspired from this [video](https://www.youtube.com/watch?v=6mxWayq-s9I) 
 
 ## ScreenShoots:
 ### 😔💤 Terminal Before [powerlevel10k](https://github.com/romkatv/powerlevel10k)
