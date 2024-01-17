@@ -6,7 +6,7 @@ This is repository contains a collections of repos, which helped me to build my 
 ## ScreenShoots:
 ### Terminal Before [powerlevel10k] (https://github.com/romkatv/powerlevel10k)
 ![Terminal](srcs/terminal0.png)
-### Terminal with [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+### Terminal with [powerlevel10k] (https://github.com/romkatv/powerlevel10k)
 ![Terminal](srcs/terminal1.png)
 ### Nvim before Plugins
 ![Nvim](srcs/nvim0.png)
