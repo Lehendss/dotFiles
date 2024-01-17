@@ -17,7 +17,7 @@ This is repository contains a collections of repos, which helped me to build my 
 ### After Plugins
 ![Nvim](srcs/dark.png)
 ## Or
-![Nvim](srcs/light1)
+![Nvim](srcs/light1.png)
 
 
 
