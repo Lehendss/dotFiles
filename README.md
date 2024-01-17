@@ -4,6 +4,7 @@ This is repository contains a collections of repos, which helped me to build my 
 
 
 ## ScreenShoots:
+<img src="srcs/nvim0.png" alt="Before" width="50%" />
 ![App Screenshot](srcs/nvim0.png){width=50%}
 
 ## 🔗 Nvim:
