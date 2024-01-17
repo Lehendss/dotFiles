@@ -4,7 +4,7 @@ This is repository contains a collections of repos, which helped me to build my 
 
 ## Requirements:
 
-- nvim
+- [nvim](https://neovim.io/) Installed
 - A plugin Manager: I use [Lazy](https://github.com/folke/lazy.nvim)
 
 ## ScreenShoots:
