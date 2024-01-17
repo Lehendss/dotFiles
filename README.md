@@ -6,6 +6,9 @@ This is repository contains a collections of repos, which helped me to build my 
 ## ScreenShoots:
 
 ## 🔗 Nvim:
+
+[nvim-lsp](https://github.com/neovim/nvim-lspconfig): Language configurations, to Use C, python, Java, etc. language completion
+
 [nvim-autopairs](https://github.com/windwp/nvim-autopairs): Special keys completion: Example '{' = '{}'
 
 [nvim-bufferline](https://github.com/akinsho/bufferline.nvim): Tab pages for nvim
@@ -23,3 +26,5 @@ This is repository contains a collections of repos, which helped me to build my 
 [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua): FileExplorer, works perfectly with telescope
 
 ## 🔗 Terminal:
+
+[Power10k](https://github.com/romkatv/powerlevel10k): The most efficient terminal theme out there: 
