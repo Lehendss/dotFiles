@@ -5,5 +5,21 @@ This is repository contains a collections of repos, which helped me to build my 
 
 ## ScreenShoots:
 
-## 🔗 Links
-[[portfolio](https://github.com/windwp/nvim-autopairs): Special keys completion: Example '{' = '{}' 
+## 🔗 Nvim:
+[nvim-autopairs](https://github.com/windwp/nvim-autopairs): Special keys completion: Example '{' = '{}'
+
+[nvim-bufferline](https://github.com/akinsho/bufferline.nvim): Tab pages for nvim
+
+[nvim-coloscheme](https://github.com/catppuccin/nvim): A beautiful theme for nvim
+
+[nvim-indentline](https://github.com/lukas-reineke/indent-blankline.nvim?tab=readme-ov-file): Visual indentation
+
+[nvim-lualine](https://github.com/nvim-lualine/lualine.nvim): Status line for nvim
+
+[nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter): nvim text highlighting
+
+[nvim-telescope](https://github.com/nvim-telescope/telescope.nvim): Files navigator and finder
+
+[nvim-tree](https://github.com/nvim-tree/nvim-tree.lua): FileExplorer, works perfectly with telescope
+
+## 🔗 Terminal:
