@@ -47,6 +47,6 @@ Configs inspired in this [video](https://www.youtube.com/watch?v=6mxWayq-s9I)
 
 ## 🔗 Terminal:
 
-[Power10k](https://github.com/romkatv/powerlevel10k): The most efficient terminal theme out there
+- [Power10k](https://github.com/romkatv/powerlevel10k): The most efficient terminal theme out there
 
-[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions?tab=readme-ov-file) Terminal commands suggestions 
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions?tab=readme-ov-file) Terminal commands suggestions 
