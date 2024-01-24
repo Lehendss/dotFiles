@@ -1,4 +1,4 @@
-![nvim](srcs/Neovim-logo.svg.png)
+<img src="srcs/Neovim-logo.svg.png" alt="nvim" with="200"/>
 
 # NVIM AND TERMINAL CONFIGURATION
 This is repository contains a collection of repos, which helped me to built a personal configuration to change from a boring and depressing terminal/nvim 💤 to a lovely one ❤️ .
