@@ -1,4 +1,6 @@
-<img src="srcs/Neovim-logo.svg.png" alt="nvim" width="500"/>
+<div align="center">
+    <img src="srcs/Neovim-logo.svg.png" alt="nvim" width="500"/>
+</div>
 
 # NVIM AND TERMINAL CONFIGURATION
 This is repository contains a collection of repos, which helped me to built a personal configuration to change from a boring and depressing terminal/nvim 💤 to a lovely one ❤️ .
